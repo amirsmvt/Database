@@ -1,10 +1,10 @@
 # Site settings
 title: Iran University of Science and Technology
-course_name: Some Course Title
-course_description: Course description.
-course_semester: "Fall 2019"
+course_name: Principles of Database Design
+course_description: هدف اين درس آموزش سيستمهاي پايگاهداده رابطهاي است .در اين درس، دانشجويان ميآموزند که چگونه يک پايگاهداده رابطهاي را طراحي و ايجاد کنند و چگونه از آن استفاده نمايند .بعلاوه، دانشجويان با چگونگي ذخيرهسازي  دادهها،  بهينهسازي  و  اجراي  پرسوجوها  و  پردازش  تراکنشها  در  پايگاههاي  داده  رابطهاي  آشنا خواهند شد.
+course_semester: "Fall 2020"
 description: |
-    Instructor: Zhila Sadati
+    Instructor: Amirhossein samavat
 
 message: #Please register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
 baseurl: "/course_template" # the subpath of your site, e.g. /blog/
@@ -13,10 +13,7 @@ syllabus: http://sauleh.github.io/course_template/syllabus/
 githubdir: 
 
 # Author/user information
-email: instructor-first-name@iust.ac.ir
-twitter_username: broken_twitter 
-github_username:  broken_github
-authorurl: "http://borken-url.github.io"
+email: Zarepour@iust.ac.ir
 address: |
     School of Computer Engineering
     Iran University of Science and Technology
