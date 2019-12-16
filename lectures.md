@@ -5,6 +5,7 @@ permalink: /lectures/
 ---
 
 You can download the lectures here (in PDF format). I will try to upload lectures prior to their corresponding classes.
+* [learning database](/Database/Static_files/Database_Management_S.pdf)
 
 
 <ul id="archive">
