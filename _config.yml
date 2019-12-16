@@ -7,9 +7,9 @@ description: |
     Instructor: Amirhossein samavat
 
 message: #Please register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
-baseurl: "/course_template" # the subpath of your site, e.g. /blog/
-url: "http://sauleh.github.io/course_template" # the base hostname & protocol for your site
-syllabus: http://sauleh.github.io/course_template/syllabus/
+baseurl: "/Database" # the subpath of your site, e.g. /blog/
+url: "https://amirsmvt.github.io/Database" # the base hostname & protocol for your site
+syllabus: https://amirsmvt.github.io/Database/syllabus
 githubdir: 
 
 # Author/user information
