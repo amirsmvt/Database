@@ -4,7 +4,7 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
-مفاهیم پایه:
+<div style="text-align: right"> مفاهیم پایه:
 <br>
 1-مدل رابطه ای
 <br>
@@ -34,4 +34,4 @@ permalink: /syllabus/
 <br>
 <br>
 
-مديريت تراکنشها
+مديريت تراکنشها</div>
