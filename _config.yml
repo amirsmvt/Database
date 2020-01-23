@@ -1,7 +1,7 @@
 # Site settings
 title: Iran University of Science and Technology
 course_name: Principles of Database Design
-course_description: هدف اين درس آموزش سيستمهاي پايگاهداده رابطهاي است .در اين درس، دانشجويان ميآموزند که چگونه يک پايگاهداده رابطهاي را طراحي و ايجاد کنند و چگونه از آن استفاده نمايند .بعلاوه، دانشجويان با چگونگي ذخيرهسازي  دادهها،  بهينهسازي  و  اجراي  پرسوجوها  و  پردازش  تراکنشها  در  پايگاههاي  داده  رابطهاي  آشنا خواهند شد.
+course_description: The purpose of this course is to teach relational database systems.In this lesson, students learn how to design and build a relational database and how to use it.In addition, students will become familiar with how to store data, optimize and execute queries, and process transactions in database databases.
 course_semester: "Fall 2020"
 description: |
     Instructor: Amirhossein samavat
