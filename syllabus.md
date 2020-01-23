@@ -35,3 +35,31 @@ Query Evaluation:
 <br>
 
 Transaction Management</div>
+
+
+<table>
+  <tr>
+    <td>Midterm Exam</td>
+    <td>20%-30%</td>
+  </tr>
+  <tr>
+    <td>Final Exam</td>
+    <td>40%-50%</td>
+  </tr>
+  <tr>
+    <td>Project</td>
+    <td>20%-25%</td>
+  </tr>
+  <tr>
+    <td>Quizzes & Class Activity</td>
+    <td>5%</td>
+  </tr>
+  <tr>
+    <td>Exercises</td>
+    <td>10%-15%</td>
+  </tr>
+  <tr>
+    <td>Incentive scores</td>
+    <td>5%</td>
+  </tr>
+</table>
