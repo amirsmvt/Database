@@ -4,7 +4,7 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
-<div style="text-align: left"> Basic Concepts:
+<div style="text-align: left"> <h1>Basic Concepts:</h1>
 <br>
 1-Relational Model
 <br>
@@ -15,7 +15,7 @@ permalink: /syllabus/
 4-Your refinement and normal looks
 <br>
 <br>
-Storage and markup:
+<h1>Storage and markup:</h1>
 <br>
 1-Data Storage: Disks and Files
 <br>
@@ -24,7 +24,7 @@ Storage and markup:
 3-Hashing indexing index
 <br>
 <br>
-Query Evaluation:
+<h1>Query Evaluation:</h1>
 <br>
 1-External sorting
 <br>
@@ -35,7 +35,7 @@ Query Evaluation:
 <br>
 
 Transaction Management</div>
-
+<br>
 
 <table>
   <tr>
