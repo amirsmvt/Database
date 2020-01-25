@@ -17,10 +17,10 @@ permalink: /project/
     {% endif %}
     <div class="content">
         <span><a href="
-            {% if project.slides contains '://' %}
-              {{ project.slides }} 
+            {% if project.PDFS contains '://' %}
+              {{ project.PDFS }} 
             {% else %}
-              {{ project.slides | prepend: site.baseurl }} 
+              {{ project.PDFS | prepend: site.baseurl }} 
             {% endif %}">{{ project.title }}</a>
         </span><br>
 
