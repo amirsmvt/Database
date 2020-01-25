@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Project
+title: Projects
 permalink: /projects/
 ---
+
 
 <ul id="archive">
 {% for project in site.projects reversed %}
@@ -17,10 +18,10 @@ permalink: /projects/
     {% endif %}
     <div class="content">
         <span><a href="
-            {% if project.PDFS contains '://' %}
-              {{ project.PDFS }} 
+            {% if project.slides contains '://' %}
+              {{ project.slides }} 
             {% else %}
-              {{ project.PDFS | prepend: site.baseurl }} 
+              {{ project.slides | prepend: site.baseurl }} 
             {% endif %}">{{ project.title }}</a>
         </span><br>
 

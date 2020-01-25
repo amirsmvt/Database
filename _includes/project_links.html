@@ -1,0 +1,77 @@
+<div>
+    {% if include.project.slides %}
+    [<a title="Download slides (pdf)" href="
+    {% if include.project.slides contains '://' %}
+      {{ include.project.slides }} 
+    {% else %}
+      {{ include.project.slides | prepend: site.baseurl }} 
+    {% endif %}">slides</a>]
+    {% endif %}
+    {% if include.project.ext_slides %}
+    [<a title="Download external slides (zip)" href="
+    {% if include.project.ext_slides contains '://' %}
+      {{ include.project.ext_slides }} 
+    {% else %}
+      {{ include.project.ext_slides | prepend: site.baseurl }} 
+    {% endif %}">ext slides</a>]
+    {% endif %}
+    {% if include.project.video %}
+    [<a title="Download video (mp4)" href="
+    {% if include.project.video contains '://' %}
+      {{ include.project.video }} 
+    {% else %}
+      {{ include.project.video | prepend: site.baseurl }} 
+    {% endif %}">video</a>]
+    {% endif %}
+    {% if include.project.video2 %}
+    [<a title="Download video (mp4)" href="
+    {% if include.project.video2 contains '://' %}
+      {{ include.project.video2 }} 
+    {% else %}
+      {{ include.project.video2 | prepend: site.baseurl }} 
+    {% endif %}">video2</a>]
+    {% endif %}
+    {% if include.project.codes %}
+    [<a title="Download codes (zip)" href="
+    {% if include.project.codes contains '://' %}
+      {{ include.project.codes }} 
+    {% else %}
+      {{ include.project.codes | prepend: site.baseurl }} 
+    {% endif %}">codes</a>]
+    {% endif %}
+    {% if include.project.data %}
+    [<a title="Download data (zip)" href="
+    {% if include.project.data contains '://' %}
+      {{ include.project.data }} 
+    {% else %}
+      {{ include.project.data | prepend: site.baseurl }} 
+    {% endif %}">data</a>]
+    {% endif %}
+    {% if include.project.link %}
+    [<a title="Link" href="{{ include.project.link }} ">link</a>]
+    {% endif %}
+    {% if include.project.link1 %}
+    [<a title="Link1" href="{{ include.project.link1 }} ">link1</a>]
+    {% endif %}
+    {% if include.project.link2 %}
+    [<a title="Link2" href="{{ include.project.link2 }} ">link2</a>]
+    {% endif %}
+    {% if include.project.link3 %}
+    [<a title="Link3" href="{{ include.project.link3 }} ">link3</a>]
+    {% endif %}
+    {% if include.project.link4 %}
+    [<a title="Link4" href="{{ include.project.link4 }} ">link4</a>]
+    {% endif %}
+    {% if include.project.link5 %}
+    [<a title="Link5" href="{{ include.project.link5 }} ">link5</a>]
+    {% endif %}
+    {% if include.project.link6 %}
+    [<a title="Link6" href="{{ include.project.link6 }} ">link6</a>]
+    {% endif %}
+    {% if include.project.link7 %}
+    [<a title="Link7" href="{{ include.project.link7 }} ">link7</a>]
+    {% endif %}
+    {% if include.project.link8 %}
+    [<a title="Link8" href="{{ include.project.link8 }} ">link8</a>]
+    {% endif %}
+</div>

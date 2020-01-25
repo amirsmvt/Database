@@ -2,7 +2,7 @@
 type: project
 date: 2019-10-02T8:00:00+4:30
 title: Slide 4
-slides: /Static_files/PDFS/P4.pdf
+slides: /Static_files/slides/P4.pdf
 #video: https://drive.iust.ac.ir/index.php/s/Xu0ZXbjx5bsakKV/download?path=%2FVideos&files=S1.mp4
 #notes: /static_files/presentations/lec.zip
 #codes: /static_files/presentations/code.zip
