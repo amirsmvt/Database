@@ -34,7 +34,7 @@ permalink: /syllabus/
 <br>
 <br>
 
-Transaction Management</div>
+<h1>Transaction Management</h1></div>
 <br>
 
 <table>
