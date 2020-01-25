@@ -3,7 +3,7 @@ instructor:
   profile_pic: /_images/People/Eisa1.png
 
 teaching_assistants:
-  name: Tohid Abedini
-  profile_pic: /_images/People/tohid.png
+  -name: Tohid Abedini
+  profile_pic: /_images/People/tohid.jpg
 
     
