@@ -4,10 +4,17 @@ title: Course Materials
 permalink: /course-materials/
 ---
 Good resources:
-* [Logical Database Design Principles](/Database/Static_files/Logical_Database_Design_Principles.pdf)
-* [Advanced Database Design Principles](/Database/Static_files/Advanced_Database_Design_Principles.pdf)
-* [Principles of Database Design](https://swayam.gov.in/nd1_noc19_cs46/preview)
+* [An Introduction to Database Systems](/Database/Static_files/An_Introduction_to_Database_Systems.pdf)
+* [Fundamental of Database Systems](/Database/Static_files/Fundamental_of_Database_Systems.pdf)
+* [Database_Systems](/Database/Static_files/Database_Systems.pdf)
+* [Database_Management_Systems](/Database/Static_files/Database_Management_Systems.pdf)
+* [Database_System_Concepts](/Database/Static_files/Database_System_Concepts.pdf)
+
 
 Main Resources:
 * [RelationalCalculus](/Database/Static_files/RelationalCalculus.pdf)
 * [2017_APEC_PMBus_MultiMaster](/Database/Static_files/2017_APEC_PMBus_MultiMaster.pdf)
+
+
+Saites for extra project and learning:
+* [Principles of Database Design](https://swayam.gov.in/nd1_noc19_cs46/preview)
