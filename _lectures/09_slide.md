@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2019-10-02T8:00:00+4:30
+date: 2019-10-02T8:00:00+4:31
 title: Slide 9
 slides: /Static_files/slides/S9.pdf
 #video: https://drive.iust.ac.ir/index.php/s/Xu0ZXbjx5bsakKV/download?path=%2FVideos&files=S1.mp4

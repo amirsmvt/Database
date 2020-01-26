@@ -6,6 +6,6 @@ slides: /Static_files/slides/S6.pdf
 #video: https://drive.iust.ac.ir/index.php/s/Xu0ZXbjx5bsakKV/download?path=%2FVideos&files=S1.mp4
 #notes: /static_files/presentations/lec.zip
 #codes: /static_files/presentations/code.zip
-tldr: "The  architecture of database "
+tldr: "The  architecture of database  "
 #thumbnail: /static_files/presentations/lec.jpg
 ---
