@@ -4,39 +4,27 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
-<div style="text-align: left"> <h1>Basic Concepts:</h1>
-<br>
-1-Relational Model
-<br>
-2-Relational algebra and relational calculus
-<br>
-3-(sql) :Prospects and restrictions
-<br>
-4-Your refinement and normal looks
-<br>
-<br>
-<h1>Storage and markup:</h1>
-<br>
-1-Data Storage: Disks and Files
-<br>
-2-Indication with tree structure
-<br>
-3-Hashing indexing index
-<br>
-<br>
-<h1>Query Evaluation:</h1>
-<br>
-1-External sorting
-<br>
-2-Evaluation of relational operators
-<br>
-3-A new query optimization<br>
-<br>
-<br>
+1- Relational database design<br>
 
-<h1>Transaction Management</h1></div>
-<br>
+2- Operation in relational databases<br>
 
+3- Relational databases: concepts <br>
+
+4- The  architecture of database <br>
+
+5- Implementation of database: SQL<br>
+
+6-Logical design of database<br>
+
+7-Semantic modelling of data <br>
+
+8- An introduction to database<br>
+
+9- Course introduction<br>
+
+
+
+<h1>scoreboard</h1>
 <table>
   <tr>
     <td>Midterm Exam</td>
