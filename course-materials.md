@@ -18,3 +18,4 @@ Main Resources:
 
 Saites for extra project and learning:
 * [Principles of Database Design](https://swayam.gov.in/nd1_noc19_cs46/preview)
+* [18_projects](https://www.lovelycoding.org/2013/11/top-18-database-projects-ideas-for.engineering-bca-mca-btech-bsc.html)
