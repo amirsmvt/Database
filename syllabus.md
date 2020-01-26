@@ -3,22 +3,23 @@ layout: page
 title: Syllabus
 permalink: /syllabus/
 ---
+1- Course introduction<br>
 
-1- Relational database design<br>
+2- An introduction to database<br>
 
-2- Operation in relational databases<br>
+3-Semantic modelling of data <br>
 
-3- Relational databases: concepts <br>
-
-4- The  architecture of database <br>
+4-Logical design of database<br>
 
 5- Implementation of database: SQL<br>
 
-6-Logical design of database<br>
+6- The  architecture of database <br>
 
-7-Semantic modelling of data <br>
+7- Relational databases: concepts <br>
 
-8- An introduction to database<br>
+8- Operation in relational databases<br>
+
+9- Relational database design<br>
 
 
 <h1>Prerequisites:</h1><br>
