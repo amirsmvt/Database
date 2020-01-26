@@ -21,6 +21,11 @@ permalink: /syllabus/
 8- An introduction to database<br>
 
 
+<h1>Prerequisites:</h1><br>
+1-operating system<br>
+2-Advanced Programming<br>
+3-data structure<br>
+
 
 
 <h1>scoreboard</h1>
