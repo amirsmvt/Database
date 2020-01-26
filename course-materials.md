@@ -4,9 +4,9 @@ title: Course Materials
 permalink: /course-materials/
 ---
 Good resources:
-* [An Introduction to Database Systems](/Database/Static_files/An_Introduction_to_Database_Systems.pdf)
+* [An Introduction to Database Systems](https://libgen.pw/item?id=2158784&adblock=true)
 * [Fundamental of Database Systems](/Database/Static_files/Fundamental_of_Database_Systems.pdf)
-* [Database_Systems](/Database/Static_files/Database_Systems.pdf)
+* [Database_Systems](https://libgen.pw/item?id=1360653&adblock=true)
 * [Database_Management_Systems](/Database/Static_files/Database_Management_Systems.pdf)
 * [Database_System_Concepts](/Database/Static_files/Database_System_Concepts.pdf)
 
