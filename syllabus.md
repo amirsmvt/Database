@@ -20,7 +20,6 @@ permalink: /syllabus/
 
 8- An introduction to database<br>
 
-9- Course introduction<br>
 
 
 
