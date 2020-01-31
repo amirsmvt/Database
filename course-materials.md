@@ -19,3 +19,6 @@ Main Resources:
 Saites for extra project and learning:
 * [Principles of Database Design](https://swayam.gov.in/nd1_noc19_cs46/preview)
 * [18_idea_projects](https://www.lovelycoding.org/2013/11/top-18-database-projects-ideas-for.engineering-bca-mca-btech-bsc.html)
+* [michigan](https://libguides.lib.msu.edu/eresources)
+* [courses_(using_Proxy)](https://www.coursera.org/courses?query=database)
+* [stanford](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
